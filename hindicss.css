@@ -1,0 +1,40 @@
+body{
+	color: ghostwhite;
+	font-size: 20px;
+	text-align: center;
+	background-image: url("http://i.imgur.com/Zw5rwNF.jpg");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+    background-position: center; 
+   //font-family: 'PT Sans', sans-serif;
+	}
+
+table, th, td {
+    border: 1px ghostwhite;
+    border-collapse: collapse;
+   text-align: left;
+}
+th, td {
+    padding: 15px;
+    
+}
+th{
+	font-size: 24px;
+	font-family: 'Pacifico', cursive;
+}
+td{
+	font-family: 'Open Sans', sans-serif;
+	
+}
+a:link{
+	color: ghostwhite;
+}
+a:visited{
+	color: green;
+}
+a:hover{
+	color: #00e6e6;
+}
+a:active{
+	color: blue;
+}
